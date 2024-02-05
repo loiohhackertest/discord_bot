@@ -1,0 +1,6 @@
+name: server_dis_bot
+version: '1.1'
+main: org.ds_bot.server_dis_bot.Server_dis_bot
+api-version: '1.20'
+author: loioh
+website: https://www.paypal.com/paypalme/loioh
